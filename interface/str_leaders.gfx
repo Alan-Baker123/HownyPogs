@@ -1,0 +1,26 @@
+ spriteTypes = {   
+	spriteType = {
+        name = GFX_STR_Manat
+        texturefile = gfx/leaders/STR/manat.dds
+	}
+	spriteType = {
+        name = GFX_STR_Alan
+        texturefile = gfx/leaders/STR/alan.dds
+	}
+	spriteType = {
+        name = GFX_STR_Petra
+        texturefile = gfx/leaders/STR/petra.dds
+	}
+	spriteType = {
+        name = GFX_STR_DrDark
+        texturefile = gfx/leaders/STR/drdark.dds
+	}
+	spriteType = {
+        name = GFX_STR_Squares
+        texturefile = gfx/leaders/STR/squares.dds
+	}
+		spriteType = {
+        name = GFX_STR_TaxEvasion
+        texturefile = gfx/leaders/STR/taxevasion.dds
+	}
+}

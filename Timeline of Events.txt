@@ -1,0 +1,33 @@
+Events for The State Republic:
+Villagers Found Dead
+	Alan Arrested - alan_arrested.1
+		National Spirit - Wrongful imprisonment ( -10% Stability)
+	The Escape - the_escape.1
+		Promote Alan as leader of Faschist Party - Removal of Wrongful Imprisonment - Addition of Manat Betrayed ( -10% stability) + 30% Fascist popularity
+Civil War - civil_war.1
+		Fascist supporters ignite civil War - Addition of Brother against brother ( +20 War Support, - 5% Stability)
+	Hexeria Defeated - hexeria_defeated.1
+		Alan Returns to the State Republic with Ammensia - Removal of Bother agaist Bother - Removal of Manat Betrayed, Addition of Nation Outraged ( -50% Stability, -60% War Support) +20% Communist Party Popularity
+Exile of Manat - manat_exiled.1
+		Retire country leader Manat, New Leader Petra - Addition of Hated Leader ( -30% Stability)
+	Communist Revolt - communist_revolt.1
+		Set Ruling party to Communist New Country Leader Dr Dark - Removal of Nation Outraged - Removal of Hated Leader - Addition of Anarchic Socity (Weekly Stability - 0.1%)
+	The Breakup of the Commune - breakup_commune.1
+		Release The swamp village with leader Petra, Release Alan's Villages with Leader Alan, set ruling party to neutrality with country leader Tax Evasion
+A New King
+	Return of someone Familier - old_face.1
+		Removal of Anarchic Socity - Addition of an old new Face (Weekly Faschist Support 0.60, Weekly Stability 5%)
+	The Dark Lord Squares - dark_lord.1
+		Set Ruling party to Facist, Retire Country Leader, New Leader Dark Lord Squares - Removal of An old new face - Addition of A New State Order (War Support +50%, Recrutable Population 20%), set cosmetic tag to STR_ORDER
+Return of a New Order - state_war.1
+	Declares War on The Remmiants of Salvation and Faction
+
+
+
+Events for Remmiants of Salvation:
+A new Power emerges - new_power.1
+	The new State Order is arming themselves Create Faction with The Swamp Village
+The State Order Finally Defeated - new_republic.1
+	give cores on State Order states + Swamp Village States, annex Swamp Village, set cosmetic tag ROS_New
+
+Events for Swamp Village:

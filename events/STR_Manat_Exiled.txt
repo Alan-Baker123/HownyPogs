@@ -9,7 +9,7 @@ country_event = {
 	
 	option = {
 		name = manat_exiled.1.a
-		retire_country_leader
+		retire_country_leader = yes
 		promote_character = STR_petra
 		add_ideas = STR_hated_leader
 	}

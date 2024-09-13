@@ -11,7 +11,7 @@ country_event = {
 		name = breakup_commune.1.a
 		release = ROS
 		release = OSR
-		drop_cosmetic_tag
+		drop_cosmetic_tag = yes
 		set_political_party = {
 			ideology = communism
 			popularity = 5

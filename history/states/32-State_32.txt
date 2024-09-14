@@ -1,6 +1,10 @@
 state={
 	id=32
 	name="STATE_32"
+		history = { 
+	owner = ARF
+	add_core_of = ARF
+	}
 	provinces={
 		20 21 32 34 36 42 64 93 135 143 164 166 231 297 318 363 376 472 481 550 635 
 	}

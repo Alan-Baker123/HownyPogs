@@ -16,7 +16,7 @@ country_event = {
 			size = 0.3
 			capital = 357
 			states = {
-				360 358 359 357
+				30 27 23
 			}
 			keep_political_party_members = yes
 		}

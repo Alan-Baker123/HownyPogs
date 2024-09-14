@@ -11,7 +11,7 @@ technologies = {
 
 		research_cost = 1
 
-		start_year = 1922
+		start_year = 1159
 
 		path = {
 			leads_to_tech = basic_light_battery
@@ -946,7 +946,7 @@ technologies = {
 
 		research_cost = 2.0
 
-		start_year = 1922
+		start_year = 1159
 
 		path = {
 			leads_to_tech = magnetic_detonator
@@ -1601,7 +1601,7 @@ technologies = {
 
 		research_cost = 2
 
-		start_year = 1922
+		start_year = 1159
 
 		path = {
 			leads_to_tech = improved_naval_mines
@@ -1661,7 +1661,7 @@ technologies = {
 
 		research_cost = 2
 
-		start_year = 1922
+		start_year = 1159
 
 		path = {
 			leads_to_tech = improved_submarine_mine_laying
@@ -2069,7 +2069,7 @@ technologies = {
 		}
 
 		research_cost = 1.5
-		start_year = 1922
+		start_year = 1159
 
 		folder = {
 			name = mtgnavalsupportfolder

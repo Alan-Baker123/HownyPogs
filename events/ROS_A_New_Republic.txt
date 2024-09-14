@@ -23,7 +23,7 @@ country_event = {
 		annex_country = {target = OSR}
 		
 		set_cosmetic_tag = ROS_NEW
-		set_capital = {state = 361}
+		set_capital = {state = 17}
 		}
 	}
 

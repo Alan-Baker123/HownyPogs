@@ -1,6 +1,11 @@
 state={
 	id=16
 	name="STATE_16"
+			history = { 
+	owner = STR
+	add_core_of = STR
+	add_core_of = OSR
+	}
 	provinces={
 		158 174 205 250 288 306 331 339 395 418 488 520 596 600 602 
 	}

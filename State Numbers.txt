@@ -1,21 +1,48 @@
-States in State Republic
-361 - Maryland - State Order
-360 - Pennsylvania - Alan's Villages
-358 - New York - Alan's Villages
-359 - New Jersey - Alan's Villages
-357 - New England - Alan's Villages
-362 - Virgina - State Order
-816 - West Virgina - State Order
-363 - North Carolina - State Order
-364 - South Carolina - Swamp Village
-365 - Georgia - Swamp Village
-366 - Florida - Swamp Village
+States in State Republic / Order
+
+State 12
+State 17 - Capitial
+State 19
+State 13
+State 18
+States In Swamp Village
+	State 25
+	State 24
+	State 29
+	State 26
+	State 22 - Capital
+	State 16
+	State 20
+
+
+States In Hexeria / Remminants of Salvation
+	State 21
+	State 23
+	State 27 - Capital
+	State 30
+	State 6
+	State 10
+	State 9
+	State 7
+	State 8
+	State 5
+	State 4
+	State 3
+	State 15
+	State 1
+	State 2
+	State 14
+
+
+
+
 
 States in ARF
-864 - Yukon Territory
-739 - Haida Gwaii
-471 - Upper British Columbia
-472 - Northwest Territories
+State 33
+State 31
+State 28
+State 32
+State 11
 
 
 

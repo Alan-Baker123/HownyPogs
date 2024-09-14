@@ -4,6 +4,7 @@ state={
 	history= {
 		owner = STR
 		add_core_of = STR
+		add_core_of = ROS
 		}
 		provinces={
 		6 121 337 384 417 475 

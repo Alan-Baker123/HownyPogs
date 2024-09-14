@@ -1,5 +1,5 @@
 ﻿oob = "STR_1163"
-capital = 6
+capital = 17
 set_research_slots = 4
 set_stability = 0.5
 set_war_support = 0.5
@@ -20,6 +20,17 @@ recruit_character = STR_alan
 recruit_character = STR_squares
 recruit_character = STR_petra
 recruit_character = STR_taxevasion
+
+set_technology = {
+    infantry_weapons = 1
+    infantry_weapons1 = 1
+    gw_artillery = 1
+    interwar_antiair = 1
+    early_fighter = 1
+    early_bomber = 1
+    fuel_silos = 1
+    basic_train = 1
+}
 
 #Politics for 1163.1.1
 set_politics = {

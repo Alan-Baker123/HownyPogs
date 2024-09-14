@@ -1,3 +1,16 @@
 characters = {
-
+	OSR_petra= {
+	name=OSR_Petra
+		portraits = {
+			civilian = {
+				large = "GFX_STR_Petra"
+				}
+			}
+		country_leader={
+			ideology=socialism
+			expire="1200.1.1"
+			id=-1
+			traits = {
+				committed_anti_fascist first_lady
+			}
 	}

@@ -6,10 +6,11 @@ state={
 	add_core_of = STR
 	add_core_of = OSR
 	victory_points = { 23 15 }
+	victory_points = { 248 10 }
 		buildings = {
 		industrial_complex = 7
 		arms_factory = 3
-		infrastructure = 2
+		infrastructure = 4
 		}
 	}
 	provinces={

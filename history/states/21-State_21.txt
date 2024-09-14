@@ -5,12 +5,16 @@ state={
 	owner = STR
 	add_core_of = STR
 	add_core_of = ROS
+	victory_points = { 76 15 }
+	buildings = { 
+		infrastructure = 5
+	}
 	}
 	provinces={
 		8 30 44 45 76 77 124 147 152 176 207 230 233 235 264 269 273 302 311 321 322 324 382 391 404 420 421 458 480 493 523 534 554 558 566 606 607 615 619 
 	}
 	buildings_max_level_factor=1.000
-        manpower=1
-        state_category = town
+        manpower=2000000
+        state_category = metropolis
 
 }

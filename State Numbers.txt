@@ -1,37 +1,40 @@
 States in State Republic / Order
 
-State 12
-State 17 - Capitial
-State 19
+State 12 - Thamark City - Dragonvale - 600k
+State 17 - Capitial - Eldish Settlement - 1.45M
+State 19 - New Hamlets City 1.30M
 State 13
-State 18
+State 18 - Feldom Town - Monsterville - 900K
+State 14 - Imperial Fort - 50K
+
+
 States In Swamp Village
-	State 25
+	State 25 - Marshville - 600k
 	State 24
-	State 29
+	State 29 - Wolves' Peak - 1.3M
 	State 26
-	State 22 - Capital
-	State 16
-	State 20
+	State 22 - Capital - Vineyard City - 300k
+	State 16 - Toad Valley - 50k
+	State 20 - Cavetown - 1M
 
 
 States In Hexeria / Remminants of Salvation
-	State 21
-	State 23
-	State 27 - Capital
-	State 30
-	State 6
-	State 10
-	State 9
-	State 7
-	State 8
-	State 5
-	State 4
-	State 3
-	State 15
-	State 1
-	State 2
-	State 14
+	State 21 - New Feldom - 2M
+	State 23 - Ourborous - 300k
+	State 27 - Capital - 500k
+	State 30 - Hamlets Town - 500k
+	State 6 - New Colony - 100k
+	State 10 - 1k
+	State 9 - 5k
+	State 7 - 11k
+	State 8 - 1k
+	State 5 - 900
+	State 4 - 50
+	State 3 - 4k
+	State 15 - Old Dale - 1.05M
+	State 1 - Unity Encampment - 500k
+	State 2 - 501
+
 
 
 

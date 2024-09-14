@@ -65,3 +65,6 @@ year translations
 1944 - 1171
 1945 - 1172
 1946 - 1173
+
+State 33 - 454
+State 30 - 380
